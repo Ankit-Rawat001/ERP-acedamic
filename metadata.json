@@ -1,0 +1,7 @@
+{
+  "name": "Oxford Collegiate - Academic ERP & Campus Portal",
+  "description": "Integrated campus ERP, student hub, faculty console, biometric credentials, and smart attendance verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
